@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "provider": "local-gemini-domain",
+      "file": "rules/local-gemini-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 1,
+      "sha256": "8a4f549ea3475da86c28fcdcefd722c1171b84eecff3a0e657c588f865cabd15"
+    },
+    {
+      "provider": "local-github-domain",
+      "file": "rules/local-github-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 1,
+      "sha256": "6e507f85f37a8294763ba65d192ec9b6aef546b7c1347f24aabf2b516a0fa604"
+    },
+    {
+      "provider": "local-telegram-exceptions",
+      "file": "rules/local-telegram-exceptions.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 1,
+      "sha256": "df11d98d1b82b530e436a88b076d5e62cf5d6f114ef03ce2a71ee324fea79cce"
+    },
+    {
+      "provider": "local-tmobile-domain",
+      "file": "rules/local-tmobile-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 14,
+      "sha256": "8da319e4228d15924b103cbd06236542b9c077540ad41f6f9804d8a2024cd0b2"
+    },
+    {
+      "provider": "local-ha-service",
+      "file": "rules/local-ha-service.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 2,
+      "sha256": "830c6b9e21c7f31fb6233a5a5373284ab295eb99b211be1cf4f2f42488a2cbee"
+    },
+    {
+      "provider": "local-review-direct",
+      "file": "rules/local-review-direct.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 12,
+      "sha256": "84d198863850d23d82eae779729f7030dd28d64a9afe11911d84b9bc623ffeb7"
+    },
+    {
+      "provider": "local-review-overseas",
+      "file": "rules/local-review-overseas.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 8,
+      "sha256": "f54136580d5aad1165cc30e3e889a51614f2422a7884ca860fc74144e9126d19"
+    },
+    {
+      "provider": "local-review-media",
+      "file": "rules/local-review-media.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 4,
+      "sha256": "73e41c96343c6f01c7eec77f562369ca0374bbb1335b219d9b02a1b0319afbe0"
+    },
+    {
+      "provider": "local-review-finance",
+      "file": "rules/local-review-finance.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 5,
+      "sha256": "6d29abb69866c333df78feb73e40821f08d0379acfaf73545ce560c7fc3494df"
+    },
+    {
+      "provider": "local-review-youtube",
+      "file": "rules/local-review-youtube.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 1,
+      "sha256": "b0b921e7319bb14e9eafa83284ed71ea965d454466527f3edf961b48f5496354"
+    },
+    {
+      "provider": "local-review-ha",
+      "file": "rules/local-review-ha.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 1,
+      "sha256": "0dbfed1718a1b1cf0f41957a3b24380f9c0d4d4dd7003f5cffe6ecfec471a4c3"
+    },
+    {
+      "provider": "local-review-media-tools",
+      "file": "rules/local-review-media-tools.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 3,
+      "sha256": "5ead7605eea4c4ed34056d054c731411fc828833d1ae9ed1dfe60432891b661f"
+    },
+    {
+      "provider": "local-review-reject",
+      "file": "rules/local-review-reject.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 38,
+      "sha256": "e920aa0d085f0f0f3b51325cab0a4797057a1dcef0ad7d6e3df7018c8e67d139"
+    },
+    {
+      "provider": "local-review-proxy-ip",
+      "file": "rules/local-review-proxy-ip.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 8,
+      "sha256": "70cba495293335dc9901813bcfa2b50b6c11e035b2cce8e1b23d0195c861a92b"
+    },
+    {
+      "provider": "local-review-direct-ip",
+      "file": "rules/local-review-direct-ip.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 2,
+      "sha256": "04a0a0c0496e02dbb398d931a7cefbc4ecc38fedcfc31382c400dab6dcc46cb4"
+    },
+    {
+      "provider": "local-overseas-esim",
+      "file": "rules/local-overseas-esim.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 10,
+      "sha256": "789ca2a7cd9bb71b63195c2e9803fa1529e4941d8264c642af746de85bf4740a"
+    },
+    {
+      "provider": "local-hk-bank",
+      "file": "rules/local-hk-bank.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 8,
+      "sha256": "4db3cccda826760c498472376999160cb68c3f6ba8c7c7fcba045bd2b7751845"
+    },
+    {
+      "provider": "local-minecraft-domain",
+      "file": "rules/local-minecraft-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 11,
+      "sha256": "0fc51b718440097c8877d47df5336f9683991ccde62ed03a916f0bf9863210eb"
+    },
+    {
+      "provider": "local-weibo-domain",
+      "file": "rules/local-weibo-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 108,
+      "sha256": "6f74e1ad279efdb7fd348c5f1846c0dc9612a1a5d9f3a21c0b19261ffb54a6fc"
+    },
+    {
+      "provider": "local-icloud-content",
+      "file": "rules/local-icloud-content.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 5,
+      "sha256": "a12c47ca854bd1011d54d42abc78519233e41a9a3a2d9558ad02665f87db3051"
+    },
+    {
+      "provider": "local-apple-service",
+      "file": "rules/local-apple-service.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 32,
+      "sha256": "af2b465c151e25a925b70a76f9c8173b5761a2e82c07a8bb95989b3a95e6f5fd"
+    },
+    {
+      "provider": "local-antigravity-domain",
+      "file": "rules/local-antigravity-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 29,
+      "sha256": "9c51482954ce62acda317d6d1645e8c13c7977561f36597cce4cfbc15ce11a38"
+    },
+    {
+      "provider": "local-meta-domain",
+      "file": "rules/local-meta-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 14,
+      "sha256": "93499d6efad5bc73d45a7a6842c06e44aa04126f9eae774b49cf3b089772821f"
+    },
+    {
+      "provider": "local-muse-domain",
+      "file": "rules/local-muse-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 13,
+      "sha256": "bf1a5e2200fa7084c1dc671140c9833fdcbfd5010aebaf95b2cc5179dc64de18"
+    },
+    {
+      "provider": "ha-appliance-domains",
+      "file": "rules/ha-appliance-domains.yaml",
+      "behavior": "domain",
+      "format": "yaml",
+      "count": 4,
+      "sha256": "1c57e7527d147de9bf960a16ff5e8b9f221a92ab8dc67120b58a0f0309a2aa8a"
+    },
+    {
+      "provider": "local-ad-reject",
+      "file": "rules/local-ad-reject.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 30,
+      "sha256": "44c752ad5cff5bed79a4afb875ebaa269e160ef1c8e587290d703dde14e80b93"
+    },
+    {
+      "provider": "local-nintendo-domain",
+      "file": "rules/local-nintendo-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 3,
+      "sha256": "9175cdfa0a9322b8955c8d06127e3d371dd0fe0815a9ad58ffd4f5e09ec5d3bf"
+    },
+    {
+      "provider": "local-xiaohongshu-domain",
+      "file": "rules/local-xiaohongshu-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 29,
+      "sha256": "ccd4d0977a0b4358aeddab4d961bd1b40863ca37e8d49db00e986effb8f4b6bd"
+    },
+    {
+      "provider": "local-cmpassport-domain",
+      "file": "rules/local-cmpassport-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 1,
+      "sha256": "fd84008cfcca3573e5ab8f88622f5f7e95bb9b2728e0a200420570f393417775"
+    },
+    {
+      "provider": "local-bt-search",
+      "file": "rules/local-bt-search.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 11,
+      "sha256": "2ea404ae1681fbe7b898e253e00e5c8d4c7f1b079639ac1277dceebc79096044"
+    },
+    {
+      "provider": "local-openai-domain",
+      "file": "rules/local-openai-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 15,
+      "sha256": "b35e86d2fa215c4fb197490dca2db33e73b6119390434a36627fc19d103f3158"
+    },
+    {
+      "provider": "local-paypal-domain",
+      "file": "rules/local-paypal-domain.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 8,
+      "sha256": "446195631e73eebf9bae4b424daa709ab63564c909242588c1e27692d86557af"
+    }
+  ]
+}

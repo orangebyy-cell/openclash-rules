@@ -1,0 +1,6 @@
+payload:
+- DOMAIN-SUFFIX,icloud-content.com
+- DOMAIN-SUFFIX,icloud-content.com.cn
+- DOMAIN-SUFFIX,content.icloud.com
+- DOMAIN-SUFFIX,content.icloud.com.cn
+- DOMAIN-REGEX,^p[0-9]+-content\.icloud\.com(?:\.cn)?$

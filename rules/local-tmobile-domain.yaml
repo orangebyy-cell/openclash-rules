@@ -1,0 +1,15 @@
+payload:
+- DOMAIN-SUFFIX,t-mo.co
+- DOMAIN-SUFFIX,t-mobile.gdsb.net
+- IP-CIDR,208.54.0.0/16,no-resolve
+- IP-CIDR,66.94.0.0/19,no-resolve
+- DOMAIN-SUFFIX,t-mobile.com
+- DOMAIN-SUFFIX,tmobile.com
+- DOMAIN-SUFFIX,sprint.com
+- DOMAIN-SUFFIX,sprintpcs.com
+- DOMAIN-SUFFIX,t-mobilemoney.com
+- DOMAIN-SUFFIX,tmobiletuesdays.com
+- DOMAIN-SUFFIX,metrobyt-mobile.com
+- DOMAIN-SUFFIX,metropcs.com
+- DOMAIN-KEYWORD,t-mobile
+- DOMAIN-KEYWORD,tmobile

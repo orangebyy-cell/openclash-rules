@@ -1,0 +1,15 @@
+payload:
+- DOMAIN-SUFFIX,instagr.am
+- DOMAIN-SUFFIX,fbpigeon.com
+- DOMAIN-SUFFIX,llamameta.net
+- DOMAIN-SUFFIX,msngr.com
+- DOMAIN-SUFFIX,messengerkids.com
+- DOMAIN-SUFFIX,mapillary.com
+- DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+- DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+- DOMAIN,meta.privacy-gateway.cloudflare.com
+- DOMAIN,meta.hpke-keys.privacy-gateway.cloudflare.com
+- DOMAIN-SUFFIX,whatsapp.com
+- DOMAIN-SUFFIX,whatsapp.net
+- DOMAIN-SUFFIX,whatsapp.biz
+- DOMAIN-SUFFIX,wa.me

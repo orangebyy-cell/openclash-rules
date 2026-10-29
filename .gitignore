@@ -1,0 +1,8 @@
+*.env
+*secret*
+*token*
+chatgpt-final.yaml
+backups/
+*.log
+*.db*
+.DS_Store

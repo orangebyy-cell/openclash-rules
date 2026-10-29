@@ -1,0 +1,9 @@
+payload:
+- DOMAIN-SUFFIX,paypal.com
+- DOMAIN-SUFFIX,paypalobjects.com
+- DOMAIN,media.venmo.com
+- DOMAIN-SUFFIX,braintreegateway.com
+- DOMAIN-SUFFIX,braintree-api.com
+- DOMAIN,cdn.joinhoney.com
+- DOMAIN,cdn.honey.io
+- DOMAIN-SUFFIX,paypal-mktg.com
