@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amzn.com
+  - DOMAIN-SUFFIX,amzn.to
+  - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,images-amazon.com
+  - DOMAIN-SUFFIX,ssl-images-amazon.com
+  - DOMAIN-SUFFIX,amazonimages.com
+  - DOMAIN-SUFFIX,amazonpay.com
