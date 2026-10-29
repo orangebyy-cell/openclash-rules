@@ -256,6 +256,14 @@
       "format": "yaml",
       "count": 8,
       "sha256": "446195631e73eebf9bae4b424daa709ab63564c909242588c1e27692d86557af"
+    },
+    {
+      "provider": "local-amazon-us",
+      "file": "rules/local-amazon-us.yaml",
+      "behavior": "classical",
+      "format": "yaml",
+      "count": 8,
+      "sha256": "dd7f972afc6bdbff819d5be4c777275cc46ae9d68e469b9210ff97b7cc255fc6"
     }
   ]
 }
