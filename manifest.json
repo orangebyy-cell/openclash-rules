@@ -46,16 +46,16 @@
       "file": "rules/local-review-direct.yaml",
       "behavior": "classical",
       "format": "yaml",
-      "count": 12,
-      "sha256": "84d198863850d23d82eae779729f7030dd28d64a9afe11911d84b9bc623ffeb7"
+      "count": 13,
+      "sha256": "fd77faa63e72236edfa77c1909b685f3eb830f989cc3c8cf210220c2c69bae83"
     },
     {
       "provider": "local-review-overseas",
       "file": "rules/local-review-overseas.yaml",
       "behavior": "classical",
       "format": "yaml",
-      "count": 8,
-      "sha256": "f54136580d5aad1165cc30e3e889a51614f2422a7884ca860fc74144e9126d19"
+      "count": 7,
+      "sha256": "1b1a2f1d8f777bb5ff9703f3f2fad27c17fc78dec59caf57a673e00f38d80e3b"
     },
     {
       "provider": "local-review-media",
@@ -272,6 +272,14 @@
       "format": "yaml",
       "count": 1,
       "sha256": "b7704cf2cdb06c3365fb8d7bedd785f5882a1a95157fb94e58a20cbb32f97104"
+    },
+    {
+      "provider": "local-game-download-domain",
+      "file": "rules/local-game-download-domain.yaml",
+      "behavior": "domain",
+      "format": "yaml",
+      "count": 0,
+      "sha256": "7c96c4b63898b84b7483d0cb0744c9017cef32e49aacec8010bc6ee4b6482543"
     }
   ]
 }
