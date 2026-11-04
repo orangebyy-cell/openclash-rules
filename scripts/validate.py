@@ -2,8 +2,11 @@ from pathlib import Path
 import yaml, json, hashlib, ipaddress, re
 root=Path(__file__).resolve().parents[1]
 files=[]
+# Deliberately empty extension point; all other providers must remain nonempty.
+allowed_empty={'local-game-download-domain.yaml'}
 for p in sorted((root/'rules').glob('*.yaml')):
- d=yaml.safe_load(p.read_text()); assert set(d)=={'payload'} and d['payload'], p.name
+ d=yaml.safe_load(p.read_text()); assert set(d)=={'payload'} and isinstance(d['payload'],list), p.name
+ assert d['payload'] or p.name in allowed_empty, p.name
  for s in d['payload']:
   assert isinstance(s,str) and not any(x in s for x in ['://','@','__']), p.name
   if s.startswith(('IP-CIDR,','IP-CIDR6,')): assert ipaddress.ip_network(s.split(',')[1]).is_global, p.name
