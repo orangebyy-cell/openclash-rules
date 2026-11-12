@@ -46,8 +46,8 @@
       "file": "rules/local-review-direct.yaml",
       "behavior": "classical",
       "format": "yaml",
-      "count": 13,
-      "sha256": "fd77faa63e72236edfa77c1909b685f3eb830f989cc3c8cf210220c2c69bae83"
+      "count": 14,
+      "sha256": "3cc2016da18a5538b17e37009582c65a285d11e1887e79991bc2cf687f127d03"
     },
     {
       "provider": "local-review-overseas",
